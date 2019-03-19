@@ -27,5 +27,6 @@ In this project we will get from different sources information on how the climat
 Climate data API: Contains historical data per country for temperature and precipitation per month or year -> https://datahelpdesk.worldbank.org/knowledgebase/articles/902061-climate-data-api
 
 C02 emissions: Contains database on historical data per country of metric tons per capita per year -> https://data.worldbank.org/indicator/EN.ATM.CO2E.PC?end=2014&start=1960&view=chart
+https://data.worldbank.org/indicator/EN.ATM.CO2E.KT?contextual=default&end=2013&locations=1W&name_desc=false&start=1960&view=chart
 
 SO emissions: Contains database of million of tones per each 10 years per region -> https://ourworldindata.org/air-pollution
