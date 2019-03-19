@@ -22,3 +22,8 @@ In this project you will need to get all the information by yourself :scream:
 ## Deliverables
 * Slides (we will provide the template)
 * A zeppelin notebook with the insights
+
+## Sources
+Climate data API: Contains historical data per country for temperature and precipitation per month or year -> https://datahelpdesk.worldbank.org/knowledgebase/articles/902061-climate-data-api
+
+C02 emissions: Contains database on historical data per country of metric tons per capita per year -> https://data.worldbank.org/indicator/EN.ATM.CO2E.PC?end=2014&start=1960&view=chart
