@@ -1,9 +1,9 @@
 
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
-# Welcome to Data Thiefs project!
+# Welcome to Data Thiefs project - We are screwing the enviroment!
 
-In this project you will need to get all the information by yourself :scream: 
+In this project we will get from different sources information on how the climate is changing and why.
 
 ## Project Goals
 
