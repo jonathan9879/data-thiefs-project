@@ -1,32 +1,28 @@
 
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
-# Welcome to Data Thiefs project - We are screwing the enviroment!
+# Pollution is in the air!
 
-In this project we will get from different sources information on how the climate is changing and why.
+We decided we wanted to have more insights on the air pollution. We did a statistical analysis of several sources to give some useful insights into what is the current situation on air pollution in the world and what trends exist for the future.
 
-## Project Goals
+## Team
+Alvaro, Chun and Jessie
 
-* Give some insights about a topicof your choice giving some arguments.
-* Choose the data interesting for your questions. 
-* Have all the data you are using in a database the whole team will use.
-* Use different types of sources for your data: files, databases, APIs, web scrapping.
-* Explain more complex arguments with plots.
+## Topics
+PM2.5 refers to atmospheric particulate matter (PM) that have a diameter of less than 2.5 micrometers, which is about 3% the diameter of a human hair. We focused on this air contaminant in particular because of the clear difference between other contaminants and PM2.5
 
+It is one of the hardest enviromental problems we face for the mid-term future and we believe we should start focusing on how to minimize it now, not when it's too late.
 
-## Some hints
-* First, choose your topic and look for sources available.
-* Before start coding and integrate data, propose some interesting questions you could answer with the data you have.
+## Questions
+What is the general trend of mean exposure worldwide?
+What countries have out of the ordenary trends/data?
+How many deaths does this contaminant cause yearly?
+Is it likely to be a problem in the future?
+Are we probably breathing it right now?
+Where does it come from and what can we do?
 
+## Source
+https://data.worldbank.org/
 
-## Deliverables
-* Slides (we will provide the template)
-* A zeppelin notebook with the insights
-
-## Sources
-Climate data API: Contains historical data per country for temperature and precipitation per month or year -> https://datahelpdesk.worldbank.org/knowledgebase/articles/902061-climate-data-api
-
-C02 emissions: Contains database on historical data per country of metric tons per capita per year -> https://data.worldbank.org/indicator/EN.ATM.CO2E.PC?end=2014&start=1960&view=chart
-https://data.worldbank.org/indicator/EN.ATM.CO2E.KT?contextual=default&end=2013&name_desc=false&start=1960&view=chart
-
-SO emissions: Contains database of million of tones per each 10 years per region -> https://ourworldindata.org/air-pollution
+## Link to the presentation
+https://slides.com/jonathan9879/deck-3/speaker#/
